@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PantrySkill", "PantrySkill\PantrySkill.csproj", "{776AB0DC-5A05-4AFB-96C5-BA803F9E7C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PantrySkill.Data", "PantrySkill.Data\PantrySkill.Data.csproj", "{66C1D943-C220-450D-A901-01E160020FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776AB0DC-5A05-4AFB-96C5-BA803F9E7C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776AB0DC-5A05-4AFB-96C5-BA803F9E7C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776AB0DC-5A05-4AFB-96C5-BA803F9E7C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776AB0DC-5A05-4AFB-96C5-BA803F9E7C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66C1D943-C220-450D-A901-01E160020FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C1D943-C220-450D-A901-01E160020FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C1D943-C220-450D-A901-01E160020FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C1D943-C220-450D-A901-01E160020FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
